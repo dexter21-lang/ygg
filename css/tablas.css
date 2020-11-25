@@ -1,0 +1,18 @@
+#tab{
+	color:#000;
+	border: 1px solid;
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#tab td{
+	text-align:center;
+	border: 1px solid;
+}
+#tab td:hover{
+	background-color:#00FF99;
+}
+#tab2{
+	color:#000;
+	width:700px;
+}

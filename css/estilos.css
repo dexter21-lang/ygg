@@ -1,0 +1,68 @@
+body{
+		background: #FFFF99;
+}
+{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+#titulo{
+	COLOR:red;
+	font-weight: bold;
+	font-size:200%;
+	text-align: center;
+	font-family: arial;
+	COLOR: red;
+	font-weight: bold;
+	font-size:200%;
+	text-align: center;
+}
+#tituloc{
+	COLOR: #CC3300;
+	font-weight: bold;
+	font-family: Garamond;
+	font-weight: bold;
+	
+#titulo2{
+	COLOR: #CC3300;
+	font-weight: bold;
+	font-size:150%;
+	text-align: center;
+	font-family: arial;
+#dex1{
+	color: #CC3300;
+	text-align: center;
+	font-size:150%;
+    font-family: arial;
+}
+
+img{
+	border: 3px dashed black;
+}
+#img-center{
+	display: block; 
+	margin-left:auto;
+	margin-right:auto;   
+}
+
+#parrafo{
+	text-align: center;
+}
+#cur{
+	color: #DA206F;
+	font-style: oblique;
+	text-decoration:underline;
+	text-align: center;
+
+}
+#img-center2{
+	display: block; 
+	margin-left:auto;
+	margin-right:auto; 
+}
+#parrafo2{
+	text-align: center;
+}
+#dex{
+	COLOR: red;
+}
